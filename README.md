@@ -1,7 +1,7 @@
 # Deep_Learning_Keywords
 
 Geniuses
-- Geoffrey Hinton (University of Toronto & Google)- unsupervised learning, back propagation(Nature, 1986), boltzman machines
+- Geoffrey Hinton (University of Toronto & Google)- back propagation(Nature, 1986), boltzman machines
 - Yann LeCun (New York & Facebook) - CNN(1989)
 - Andrew Ng (Stanford University & Baidu) - GPU Utilization
 - Alex Krizhevsky (University of Toronto Google) - dropout
