@@ -22,6 +22,8 @@ Classification (CNN)
 - ImageNet
 
 Image Caption Generation (CNN + RNN)
+ - Show, Attend and Tell
+ - Encoder: CNN, Decoder: LSTM
 
 Keypoints
 
